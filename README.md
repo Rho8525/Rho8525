@@ -1,13 +1,11 @@
-## Hi there 👋
+## Hello
+im Rho, i like gaming, programming, and something involved with creating.
 
-<!--
-**Rho8525/Rho8525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am i?
+im just a nobody, usually i will go with rho as my username but if it was taken then i will go with rho8525.
 
-Here are some ideas to get you started:
--->
+## What is the meaning behind my name?
+nothing.
 
-- 🔭 I’m currently working on becoming programmer
-- 🌱 I’m currently learning javascript and python
-- 🤔 I’m looking for help with my learning
-- 📫 How to reach me: @rho8525 on discord
-- 😄 Pronouns: he/him
+## Why am i here
+you see, im trying to become a programmer.
