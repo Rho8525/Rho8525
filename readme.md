@@ -1,2 +1,2 @@
-<img src='public/avatar.png' width='100' />
-my username is **Rho**
+<img src='public/avatar.png' />
+my username is Rho
